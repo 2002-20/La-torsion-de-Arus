@@ -1,5 +1,5 @@
-# La-torsion-de-Arus
-# Tiempo ondulatorio en la envolvencia de una tensión regulada
+# La torsion de Arus
+## Tiempo ondulatorio en la envolvencia de una tensión regulada
 ***Un proyeto de diseño de interacción de la gestualidad en un espacio vertical.***
 
 ## Objetivo
