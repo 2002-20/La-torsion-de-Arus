@@ -115,10 +115,7 @@ Y así como en los animales también se pudo observar en las plantas, pero este 
 
 2. **Proceso Constructivo**
 
-3. ***Dibujos en Fusion 360***
-
-
-
+3. **Dibujos en Fusion 360**
 
 
 4. **Estructura y mecanismos**
