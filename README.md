@@ -1,6 +1,5 @@
 # La torsion de Arus
 ## Tiempo ondulatorio en la envolvencia de una tensión regulada
-***Un proyeto de diseño de interacción de la gestualidad en un espacio vertical.***
 
 ## Objetivo
 
@@ -8,7 +7,7 @@
 
 ## Resumen
 
-Proyecto grupal realizado por tres participantes. Las cuales,  se inicia realizando observaciones individuales para posteriormente definir tres espacios gestuales comunes, los que estarán acoplados a un gesto de control por parte del usuario. Estas gestualidades del usuario-rangos expresivos del cuerpo, formarán los input y los output del espacio expresivo. 
+Proyecto grupal de Diseño de Interacción respecto a la gestualidad en un espacio vertical, realizado por María Josefa Alcántara, Martina Vásquez y Francisca Silva. Las cuales,  se inicia realizando observaciones individuales para posteriormente definir tres espacios gestuales comunes, los que estarán acoplados a un gesto de control por parte del usuario. Estas gestualidades del usuario-rangos expresivos del cuerpo, formarán los input y los output del espacio expresivo. 
 
 Dicho espacio expresivo se originará de la sucesión de secuencias ondulatorias en el cuerpo, desplegándose continuamente en un desplazamiento sutil en sincronía luminosa, otorgándole el equilibrio a través de la coordinación en sí mismo en un tiempo y el espacio que lo acoge; los que provocarán ciclos de un fenómeno en transición y gestos integrados en un gran movimiento.
 
@@ -106,30 +105,7 @@ En el caso del colibrí su aleteo suele ser característico, pero al observarlo 
 Y así como en los animales también se pudo observar en las plantas, pero este movimiento ocurre de otra manera diferente ya que este gesto no viene de la planta misma sino de un tercero que provoca que las ramas se puedan mover. Y si bien el movimiento no es propio de esta, se mueven al compass del viento en un vaivén vertical que forma la rama del ficus, otorgando la apariencia que la punta de este, dibuje en el aire ondas.
 
 
-### Primera Propuesta
-
-1. **Proceso Creativo**
-A través de las líneas de los movimientos observados se inicia el proceso creativo, formas y estructura que van construyendo la primera propuesta.
-
-2. **Proceso Contructivo**
-
-El totem está construido mediante dos unidades básicas, un círculo color blanco donde se incluirían la luces LED y un soporte realizado con CNC unido al eje de giro. Los sistemas permitirían su giro y su activación lo realizaría el que observa. Esta estructura y sistema luminoso estaría difuminado con un velo, que atenuaría la luminosidad y movimiento a través de su transparencia. 
-
-3. **Unidades Básicas**
-
-
-
-4. **Maqueta 1:5**
-
-
-
-5. **Mejoras**
-
-* Integración de la tela exterior del totem a la estructura interna.
-* Se amplía el espacio del movimiento.
-* Incorporación de otro gesto a la gestualidad del totem.
-
-### Segunda Propuesta
+### Propuesta
 
 1. **Proceso Creativo**
 
