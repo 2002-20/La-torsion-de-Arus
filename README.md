@@ -9,7 +9,7 @@
 
 Proyecto grupal de Diseño de Interacción respecto a la gestualidad en un espacio vertical, realizado por María Josefa Alcántara, Martina Vásquez y Francisca Silva. 
 
-Se inicia realizando observaciones individuales para posteriormente definir tres espacios gestuales comunes, los que estarán acoplados a un gesto de control por parte del usuario. Estas gestualidades del usuario-rangos expresivos del cuerpo, formarán los input y los output del espacio expresivo. 
+Se inicia el proceso del proyecto, realizando observaciones individuales para posteriormente definir tres espacios gestuales comunes, los que estarán acoplados a un gesto de control por parte del usuario. Estas gestualidades del usuario-rangos expresivos del cuerpo, formarán los input y los output del espacio expresivo. 
 
 Dicho espacio expresivo se originará de la sucesión de secuencias ondulatorias en el cuerpo, desplegándose continuamente en un desplazamiento sutil en sincronía luminosa, otorgándole el equilibrio a través de la coordinación en sí mismo en un tiempo y el espacio que lo acoge; los que provocarán ciclos de un fenómeno en transición y gestos integrados en un gran movimiento.
 
