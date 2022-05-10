@@ -38,7 +38,7 @@ Conjugándose los gestos, la llamada se hace en un sólo lenguaje, la interacci�
 Gestos de movimientos sinuosos secuenciales que se sincronizan en simultaneidad, variando de velocidad y altura, mantienen el equilibrio por su consistencia y sus posturas, los que le permiten el viaje por su propia amplitud, un pulso de ondulaciones que producen el desplazamiento. Secuencia de actividad iniciada con un impulso y un eje que equilibra en las distintas posiciones en transición, provocando tensión en el cuerpo en el encuentro con el balance.
 
 
-![Esto es una imagen](https://wiki.ead.pucv.cl/images/e/eb/Secuencia_despegue_FSP.jpg )
+![Esto es una imagen](https://repository-images.githubusercontent.com/489033997/cdbed678-c9ca-483d-9e19-7806d3345262)
 ![Esto es una imagen](https://wiki.ead.pucv.cl/images/6/60/Secuencias_2_FSPv2.jpg )
 ![Esto es una imagen](https://wiki.ead.pucv.cl/images/c/cb/Secuencia_1_FSP.jpg )
 ![Esto es una imagen](https://wiki.ead.pucv.cl/images/5/5b/CaracolB_FSPV2.jpg )
